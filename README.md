@@ -23,6 +23,20 @@ Wenn das Handy fragt, ob es Apps aus dieser Quelle installieren darf: erlauben.
 Doppelklicken und installieren. Falls Windows „Der Computer wurde durch Windows geschützt“
 zeigt: auf „Weitere Informationen“ und dann „Trotzdem ausführen“ klicken.
 
+## Banjo-Coach für Android
+
+Banjo lernen mit Fritz, dem Dackel: kurze Lektionen, Stimmgerät, Videos und ein Plan für jeden Tag.
+
+**[Banjo-Coach.apk herunterladen](https://github.com/techwithfinn/Downloads/raw/main/Banjo-Coach.apk)**
+
+Oder diesen Code mit dem Handy scannen:
+
+<img src="qr-banjo.png" alt="QR-Code: Banjo-Coach für Android herunterladen" width="200">
+
+Auf dem Handy die Datei öffnen und „Installieren“ tippen.
+Wenn das Handy fragt, ob es Apps aus dieser Quelle installieren darf: erlauben.
+Beim ersten Stimmen fragt die App nach dem Mikrofon: bitte erlauben.
+
 ---
 
 Die Links bleiben immer gleich und zeigen stets auf die neueste Version.
